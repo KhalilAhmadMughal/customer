@@ -1,0 +1,74 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "username": "abc6",
+      "password": "pass@123",
+      "name": "John Jr New",
+      "father_name": "Alien",
+      "age": 24,
+      "isAdmin": true,
+      "cnic": "111111111111"
+    },
+    {
+      "id": 2,
+      "username": "abc2",
+      "password": "pass111123",
+      "name": "John Steve",
+      "father_name": "Alien",
+      "age": 24,
+      "isAdmin": false,
+      "cnic": "111111111111"
+    },
+    {
+      "id": 3,
+      "username": "abc3",
+      "password": "12ds3",
+      "name": "Fracine Victor",
+      "father_name": "Alien",
+      "age": 24,
+      "isAdmin": false,
+      "cnic": "111111111111"
+    },
+    {
+      "id": 4,
+      "username": "abc4",
+      "password": "123",
+      "name": "Vlad Bodi",
+      "father_name": "Alien",
+      "age": 24,
+      "isAdmin": false,
+      "cnic": "111111111111"
+    },
+    {
+      "id": 5,
+      "username": "abc5",
+      "password": "123",
+      "name": "Marius Steve",
+      "father_name": "Alien",
+      "age": 24,
+      "isAdmin": false,
+      "cnic": "111111111111"
+    },
+    {
+      "id": 6,
+      "username": "abc6",
+      "password": "123",
+      "name": "Marius six",
+      "father_name": "six's father",
+      "age": 24,
+      "isAdmin": false,
+      "cnic": "111111111111"
+    },
+    {
+      "id": 7,
+      "username": "abc7",
+      "password": "123",
+      "name": "Marius seven",
+      "father_name": "seven's father",
+      "age": 24,
+      "isAdmin": true,
+      "cnic": "111111111111"
+    }
+  ]
+}
